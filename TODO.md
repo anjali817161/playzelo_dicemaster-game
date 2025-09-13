@@ -1,0 +1,7 @@
+- [x] Update DiceGame.tsx layout to center the game with full space, left side for game stats, right side for game controls using flex layout
+- [x] Add tabs on left side: Game Stats and Game History
+- [x] Add tabs on right side: Game Controls and Game Rules
+- [x] Implement roll history state and display in Game History tab
+- [x] Reduce dice roll animation duration from 30 seconds to 5 seconds
+- [x] Ensure result popup shows after roll
+- [x] Test the updated UI and functionality
